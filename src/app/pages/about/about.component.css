@@ -1,0 +1,35 @@
+#image-background  {
+    background: none;
+}
+
+.vertical-line {
+    color: red;
+    font-family: "Roboto Mono",Sans-serif;
+    font-weight: 400;
+    line-height: 1.4em;
+    padding-left: 35px;
+}
+
+.card-icon {
+    transform: scale(2);
+    -webkit-transform: scale(2);
+    -moz-transform: scale(2);
+    -ms-transform: scale(2);
+    -o-transform: scale(2);
+}
+
+.icon-title{
+    margin-left: 15px;
+    margin-bottom: 20px;
+    font-size: 22px;
+    font-family: 'Rubic Glitch', cursive;
+}
+.expertise {
+    margin-top: 20px;
+    font-size: 35px;
+    font-family: 'Rubic Glitch', cursive;
+}
+.moto {
+    font-size: 22px;
+    font-family: 'Rubic Glitch', cursive;
+}

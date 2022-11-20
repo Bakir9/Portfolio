@@ -1,0 +1,89 @@
+/* /* .my-own {
+    position: absolute;
+    top: 25%;
+    left: 30%;
+}
+
+.my-name {
+    font-size: 100px;
+    font-family: 'Rubic Glitch', cursive;
+    font-weight: 900;
+    margin: 0;
+}
+
+.my-position {
+    font-size: 30px;
+    margin-left: 20px;
+    font-family: 'Rubic Glitch', cursive;
+} */
+
+.mee {
+   background-color: #73e8ff;
+   border-radius: 78% 22% 80% 20% / 61% 100% 0% 39%  ;
+   -webkit-border-radius: 78% 22% 80% 20% / 61% 100% 0% 39%  ;
+   -moz-border-radius: 78% 22% 80% 20% / 61% 100% 0% 39%  ;
+   -ms-border-radius: 78% 22% 80% 20% / 61% 100% 0% 39%  ;
+   -o-border-radius: 78% 22% 80% 20% / 61% 100% 0% 39%  ;
+}
+
+
+main {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+    width: 400px;
+    height: auto;
+}
+
+.regards {
+    font-size: 48px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.software-development {
+    display: inline-block;
+    margin-bottom: 10px;
+    font-size: 28px;
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 10px;
+}
+
+.program-icon {
+    color: rgb(127, 208, 255);
+    margin-right: 20px;
+    font-size: 400%;
+    overflow: visible;
+    position: relative;
+}
+
+.software {
+    display: inline-block;
+}
+
+.description {
+    margin-left: 30px;
+}
+.tag {
+   font-family:'Montserrat', sans-serif;
+   background-color: rgb(127, 208, 255);
+   width: fit-content;
+   padding: 8px;
+   border-radius: 20px;
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   -ms-border-radius: 20px;
+   -o-border-radius: 20px;
+}
+
+.mailto {
+    text-decoration:none;
+    color: white;
+}
+
+.btn-color {
+    background-color: rgb(127, 208, 255);
+}
